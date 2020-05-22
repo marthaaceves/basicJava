@@ -1,0 +1,30 @@
+﻿Login to "Songs By Sinatra" page
+Pre-conditions
+	Su sistema debe tener acceso a interner
+	Tener instalado el navegador chrome
+	Username: frank
+	Password: sinatra
+
+Steps:
+	1. Abrir chrome
+	2. Ingresar y accesar a url https://evening-bastion-49392.herokuapp.com/songs/new
+	3. En home dar click en "log in" liga inferior izquierda
+	4. Ingresar usario frank y contraseña sinatra en los cuadros de texto
+	5. Oprimir o dar click en el botón de log in
+	6. Si fue exitoso su ingreso le debe mostrar un mensaje en una banda rosa You are now logged in as frank"
+
+
+
+**********************
+
+Pre conditions
+	Tener un dispositivo con acceso a internet
+	Tener instalado el navegador chrome
+	Estar loggeado a "Songs By Sinatra"
+
+Steps:
+	1. Navegar al tab "Songs"
+	2. Ingresar y acceder al url https://evening-bastion-49392.herokuapp.com/songs
+	3. Llenar los campos y darle click en "save song"
+	8. Verificar que la canción se salve correctamente 
+
